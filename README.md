@@ -1,5 +1,7 @@
 # Palindrome Processing
 
+A basic palindrome mini project built with the symphony framework
+
 ### Step 1: Clone Repository
 
 ### Step 2: Run composer install
